@@ -1,3 +1,3 @@
 # FlickrClientApp
-![Simulator Screen Shot - iPhone 14 Pro - 2022-11-26 at 02 31 49](https://user-images.githubusercontent.com/99292553/204063165-f12c8415-0127-4841-9230-1cf5f766c0c5.png)
-![Simulator Screen Shot - iPhone 14 Pro - 2022-11-26 at 02 32 00](https://user-images.githubusercontent.com/99292553/204063167-7fda9bac-cb05-4b26-acf2-ccae5f25ef2c.png)
+<img width="345" alt="Screenshot 2022-11-26 at 02 34 31" src="https://user-images.githubusercontent.com/99292553/204063227-c65206b1-eb7e-4d00-8c95-21e44e925d99.png">
+<img width="345" alt="Screenshot 2022-11-26 at 02 34 06" src="https://user-images.githubusercontent.com/99292553/204063230-4ad18008-6ce1-49ac-bfa4-52b97358c2c9.png">
